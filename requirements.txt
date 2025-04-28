@@ -1,0 +1,6 @@
+requests
+matplotlib.pyplot
+seaborn
+datetime
+streamlit
+pandas
